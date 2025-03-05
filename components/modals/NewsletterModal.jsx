@@ -78,7 +78,7 @@ export default function NewsletterModal() {
           <div className="modal-top">
             <Image
               className="lazyload"
-              data-src="/images/item/banner-newleter.jpg"
+              data-src="/images/logo/offers.jpg"
               alt="home-01"
               width={938}
               height={538}
